@@ -1,4 +1,4 @@
-#TaskManager
+# TaskManager
 A simple C++ program to manage tasks with deadlines and priorities. This is my first project that I wanted to add to GitHub to practice my coding skills.
 
 Features:
